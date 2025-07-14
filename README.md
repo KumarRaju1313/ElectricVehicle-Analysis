@@ -39,16 +39,15 @@ Using `plotly.express`, interactive maps were created:
 
 Using `bar_chart_race`, an animated bar chart video was generated:
 - **Top 10 EV Makes** over the years (Model Year-wise growth)
-- Output: `ev_racing_bar.mp4`
 
 ---
 
 ## 🔍 Key Insights
 
-- BEVs are more common than PHEVs.
-- Popular EV brands: **Tesla, Chevrolet, Nissan, Ford**.
-- States like **California, Washington, and Florida** show higher EV penetration.
-- Post-2017 shows a steep increase in EV adoption.
+- ✅ BEVs are more common than PHEVs.
+- 🚗 Top EV brands: **Tesla, Chevrolet, Nissan, Ford**
+- 🗺️ States like **California, Washington, Florida** show the highest EV penetration.
+- 📈 Steep increase in EV adoption post-2017.
 
 ---
 
@@ -59,4 +58,3 @@ Using `bar_chart_race`, an animated bar chart video was generated:
 - `seaborn`
 - `matplotlib`
 - `plotly.express`
-- `bar_chart_race`
